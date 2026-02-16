@@ -1,4 +1,3 @@
-````md
 # Human–Robot Trust + Behavior Modelling Framework (MATLAB)
 
 This repository contains an end-to-end MATLAB framework for modelling **human trust in an autonomous Search & Rescue (SAR) robot** and its coupling to **human reliance behavior** (follow vs override). It was developed for a TU Delft MSc thesis (Aerospace Engineering, Control & Simulation).
