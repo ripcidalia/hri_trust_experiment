@@ -177,9 +177,9 @@ These variances are then packaged into `measurement_weights.mat`.
 For each participant:
 
 * If `t14_mid1.total_percent` exists:
-  $$\mathrm{t14\_mid1.total\_percent_40} = a_{14},\mathrm{t14_mid1.total_percent} + b_{14}$$
+  $$\mathrm{t14\_mid1.total\_percent_40} = a_{14},\mathrm{t14\_mid1.total\_percent} + b_{14}$$
 * If `t14_mid2.total_percent` exists:
-  $$\mathrm{t14\_mid2.total_percent_40} = a_{14},\mathrm{t14_mid2.total_percent} + b_{14}$$
+  $$\mathrm{t14\_mid2.total\_percent_40} = a_{14},\mathrm{t14\_mid2.total\_percent} + b_{14}$$
 
 Missing or non-coercible values are stored as `NaN`, but output fields are created for consistency.
 
